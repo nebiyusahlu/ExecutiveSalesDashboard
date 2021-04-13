@@ -30,3 +30,8 @@ The following dashboard contains different sales metrics.
 
 ![Sales summary](https://user-images.githubusercontent.com/82042663/114629433-2d9cdf80-9c7e-11eb-9e5f-5627ebf31b32.gif)
 
+
+
+Here is a link to the published report:- 
+
+https://app.powerbi.com/view?r=eyJrIjoiZjVjMDgxOTQtNTczMi00ZGE4LWI5NTYtMmFiNDNmYzYxMjIzIiwidCI6ImI2ZjNjOTE3LTBhODEtNDc1NC1hODMyLTI4MGQxMjJhOGMxYyJ9
