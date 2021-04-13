@@ -34,4 +34,4 @@ The following dashboard contains different sales metrics.
 
 Here is a link to the published report:- 
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjVjMDgxOTQtNTczMi00ZGE4LWI5NTYtMmFiNDNmYzYxMjIzIiwidCI6ImI2ZjNjOTE3LTBhODEtNDc1NC1hODMyLTI4MGQxMjJhOGMxYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZjVjMDgxOTQtNTczMi00ZGE4LWI5NTYtMmFiNDNmYzYxMjIzIiwidCI6ImI2ZjNjOTE3LTBhODEtNDc1NC1hODMyLTI4MGQxMjJhOGMxYyJ9
