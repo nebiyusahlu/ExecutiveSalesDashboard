@@ -23,6 +23,11 @@ loaded Power BI desktop and I created a model and it was ready to be aggregated,
 ![Model](https://user-images.githubusercontent.com/82042663/114629158-b49d8800-9c7d-11eb-8bf4-3130bf1bac9b.PNG)
 
 
+DAX Calculations used:- 
+
+![Screenshot (10)](https://user-images.githubusercontent.com/82042663/114630684-c16fab00-9c80-11eb-84f9-1f0943e63596.png)
+
+
 Visulalization:- 
 
 The following dashboard contains different sales metrics. 
